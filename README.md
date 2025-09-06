@@ -29,7 +29,5 @@ Our mission is to create a **vibrant, trusted, and sustainable** marketplace for
 - **Database:** MongoDB (Mongoose)  
 - **Auth:** JWT (JSON Web Tokens)  
 
---
-
 
 
