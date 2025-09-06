@@ -1,0 +1,202 @@
+[
+  {
+    "title": "Eco-Friendly Reusable Water Bottle",
+    "description": "Stainless steel bottle, reduces plastic waste.",
+    "price": 450,
+    "location": "Mumbai",
+    "seller": {"name": "Riya Kapoor","contact": "riya.kapoor@example.com"},
+    "images": ["bottle1.jpg"],
+    "category": "Home & Kitchen",
+    "postedAt": {"$date":"2025-09-06T12:00:00Z"}
+  },
+  {
+    "title": "Organic Cotton T-Shirt",
+    "description": "Soft organic cotton t-shirt, size M.",
+    "price": 350,
+    "location": "Bengaluru",
+    "seller": {"name": "Ankit Sharma","contact": "ankit.sharma@example.com"},
+    "images": ["tshirt1.jpg"],
+    "category": "Clothing",
+    "postedAt": {"$date":"2025-09-05T10:30:00Z"}
+  },
+  {
+    "title": "Solar-Powered LED Lamp",
+    "description": "Portable lamp for camping or emergency backup.",
+    "price": 1200,
+    "location": "Pune",
+    "seller": {"name": "Sneha Patel","contact": "sneha.patel@example.com"},
+    "images": ["lamp1.jpg","lamp2.jpg"],
+    "category": "Electronics",
+    "postedAt": {"$date":"2025-09-04T15:00:00Z"}
+  },
+  {
+    "title": "Reusable Grocery Bags (Set of 5)",
+    "description": "Strong eco-friendly reusable bags.",
+    "price": 200,
+    "location": "Delhi",
+    "seller": {"name": "Rahul Verma","contact": "rahul.verma@example.com"},
+    "images": ["bags1.jpg"],
+    "category": "Home & Kitchen",
+    "postedAt": {"$date":"2025-09-03T09:00:00Z"}
+  },
+  {
+    "title": "Bamboo Toothbrush (Pack of 4)",
+    "description": "Biodegradable bamboo toothbrushes, mint flavor.",
+    "price": 150,
+    "location": "Chennai",
+    "seller": {"name": "Priya Nair","contact": "priya.nair@example.com"},
+    "images": ["toothbrush1.jpg","toothbrush2.jpg"],
+    "category": "Personal Care",
+    "postedAt": {"$date":"2025-09-02T14:45:00Z"}
+  },
+  {
+    "title": "Reusable Stainless Steel Straw Set",
+    "description": "Set of 8 reusable straws with cleaning brush.",
+    "price": 120,
+    "location": "Kolkata",
+    "seller": {"name": "Karan Mehta","contact": "karan.mehta@example.com"},
+    "images": ["straws1.jpg"],
+    "category": "Kitchen Accessories",
+    "postedAt": {"$date":"2025-09-01T11:30:00Z"}
+  },
+  {
+    "title": "Eco-Friendly Yoga Mat",
+    "description": "Non-toxic, biodegradable yoga mat, 6mm thick.",
+    "price": 1800,
+    "location": "Hyderabad",
+    "seller": {"name": "Ayesha Khan","contact": "ayesha.khan@example.com"},
+    "images": ["yoga1.jpg"],
+    "category": "Sports & Fitness",
+    "postedAt": {"$date":"2025-08-31T16:00:00Z"}
+  },
+  {
+    "title": "Solar Charger for Phones",
+    "description": "Portable solar charger, 10000mAh, eco-friendly.",
+    "price": 2200,
+    "location": "Mumbai",
+    "seller": {"name": "Vikram Joshi","contact": "vikram.joshi@example.com"},
+    "images": ["charger1.jpg"],
+    "category": "Electronics",
+    "postedAt": {"$date":"2025-08-30T13:15:00Z"}
+  },
+  {
+    "title": "Reusable Coffee Cup",
+    "description": "Silicone lid and stainless steel cup, 350ml.",
+    "price": 400,
+    "location": "Bengaluru",
+    "seller": {"name": "Meera Singh","contact": "meera.singh@example.com"},
+    "images": ["cup1.jpg"],
+    "category": "Home & Kitchen",
+    "postedAt": {"$date":"2025-08-29T09:45:00Z"}
+  },
+  {
+    "title": "Eco-Friendly Notebook",
+    "description": "100% recycled paper, A5 size.",
+    "price": 250,
+    "location": "Pune",
+    "seller": {"name": "Rohit Desai","contact": "rohit.desai@example.com"},
+    "images": ["notebook1.jpg"],
+    "category": "Stationery",
+    "postedAt": {"$date":"2025-08-28T14:00:00Z"}
+  },
+  {
+    "title": "Reusable Food Wraps",
+    "description": "Beeswax wraps to replace plastic wrap.",
+    "price": 350,
+    "location": "Delhi",
+    "seller": {"name": "Sonia Malhotra","contact": "sonia.malhotra@example.com"},
+    "images": ["wraps1.jpg","wraps2.jpg"],
+    "category": "Kitchen Accessories",
+    "postedAt": {"$date":"2025-08-27T12:30:00Z"}
+  },
+  {
+    "title": "Bamboo Utensil Set",
+    "description": "Set of 6 eco-friendly bamboo utensils.",
+    "price": 500,
+    "location": "Chennai",
+    "seller": {"name": "Arjun Reddy","contact": "arjun.reddy@example.com"},
+    "images": ["utensils1.jpg"],
+    "category": "Kitchen Accessories",
+    "postedAt": {"$date":"2025-08-26T10:15:00Z"}
+  },
+  {
+    "title": "Compost Bin for Kitchen",
+    "description": "Small kitchen compost bin, odor-free lid.",
+    "price": 1500,
+    "location": "Kolkata",
+    "seller": {"name": "Nisha Gupta","contact": "nisha.gupta@example.com"},
+    "images": ["compost1.jpg"],
+    "category": "Home & Garden",
+    "postedAt": {"$date":"2025-08-25T17:00:00Z"}
+  },
+  {
+    "title": "Reusable Silicone Food Bags",
+    "description": "Set of 5 reusable silicone food storage bags.",
+    "price": 800,
+    "location": "Hyderabad",
+    "seller": {"name": "Pranav Kumar","contact": "pranav.kumar@example.com"},
+    "images": ["siliconebags1.jpg"],
+    "category": "Kitchen Accessories",
+    "postedAt": {"$date":"2025-08-24T11:30:00Z"}
+  },
+  {
+    "title": "Eco-Friendly Shampoo Bar",
+    "description": "Zero-waste shampoo bar for all hair types.",
+    "price": 300,
+    "location": "Mumbai",
+    "seller": {"name": "Rashmi Jain","contact": "rashmi.jain@example.com"},
+    "images": ["shampoo1.jpg"],
+    "category": "Personal Care",
+    "postedAt": {"$date":"2025-08-23T13:00:00Z"}
+  },
+  {
+    "title": "Recycled Paper Gift Wrap",
+    "description": "Eco-friendly gift wrap made from recycled paper.",
+    "price": 150,
+    "location": "Bengaluru",
+    "seller": {"name": "Deepak Rao","contact": "deepak.rao@example.com"},
+    "images": ["giftwrap1.jpg"],
+    "category": "Stationery",
+    "postedAt": {"$date":"2025-08-22T15:20:00Z"}
+  },
+  {
+    "title": "Reusable Beeswax Snack Wraps",
+    "description": "Set of 4 beeswax wraps for sandwiches & snacks.",
+    "price": 350,
+    "location": "Pune",
+    "seller": {"name": "Tanvi Sharma","contact": "tanvi.sharma@example.com"},
+    "images": ["snackwraps1.jpg"],
+    "category": "Kitchen Accessories",
+    "postedAt": {"$date":"2025-08-21T09:50:00Z"}
+  },
+  {
+    "title": "Eco-Friendly Laundry Detergent",
+    "description": "Plant-based detergent, biodegradable, 1L.",
+    "price": 600,
+    "location": "Delhi",
+    "seller": {"name": "Vikash Yadav","contact": "vikash.yadav@example.com"},
+    "images": ["detergent1.jpg"],
+    "category": "Home & Kitchen",
+    "postedAt": {"$date":"2025-08-20T12:15:00Z"}
+  },
+  {
+    "title": "Reusable Travel Cutlery Set",
+    "description": "Eco-friendly portable cutlery in a carrying pouch.",
+    "price": 400,
+    "location": "Chennai",
+    "seller": {"name": "Simran Kaur","contact": "simran.kaur@example.com"},
+    "images": ["cutlery1.jpg"],
+    "category": "Kitchen Accessories",
+    "postedAt": {"$date":"2025-08-19T10:00:00Z"}
+  },
+  {
+    "title": "Organic Cotton Tote Bag",
+    "description": "Stylish reusable tote bag, perfect for shopping.",
+    "price": 350,
+    "location": "Kolkata",
+    "seller": {"name": "Rohini Sen","contact": "rohini.sen@example.com"},
+    "images": ["totebag1.jpg"],
+    "category": "Clothing",
+    "postedAt": {"$date":"2025-08-18T16:45:00Z"}
+  }
+]
